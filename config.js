@@ -52,11 +52,11 @@ global.premium = 'true'
 global.packname = '💝 _Mr. cybeur-Psycho_ 💝 Created By 💝 Syamser Official²⁰²³ 💝' 
 global.author = '💝 Dinuwa Official²⁰²³ 💝' 
 global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/_mr.fro_ud_?\n' 
-global.dygp = ''
+global.dygp = 'https://chat.whatsapp.com/IXgLCwVt3LrC5zdOGNQJZ8'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
+global.fgyt = 'https://chat.whatsapp.com/IXgLCwVt3LrC5zdOGNQJZ8'
+global.fgpyp = 'https://chat.whatsapp.com/IXgLCwVt3LrC5zdOGNQJZ8'
+global.fglog = 'https://i.imgur.com/TrJHlgs.png' 
 
 
 global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
@@ -67,7 +67,7 @@ global.error = '👎'
 global.xmoji = '🫶' 
 
 global.multiplier = 69 
-global.maxwarn = '3' // máxima advertencias
+global.maxwarn = '10' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
