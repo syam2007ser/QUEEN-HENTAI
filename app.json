@@ -1,9 +1,9 @@
 {
-  "name": "QUEEN HENTAI",
+  "name": "MR.CYBER_PSYCHO",
   "description": "Customizable WhatsApp Bot",
-  "repository": "https://github.com/dinuwah/QUEEN-HENTAI",
-  "logo": "https://i.ibb.co/T1DqdYz/thumbnail.jpg",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "QUEEN HENTAI", "GURU-bot-md", "GURU-bot"],
+  "repository": "https://github.com/syam2007ser/QUEEN-HENTAI",
+  "logo": "https://telegra.ph/file/62227648c11c9e2555483.jpg",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "MR.CYBER-PSYCHO", "MR.CYBER_PSYCHO", "MR.CYBER¯PSYCHO"],
   "stack": "container",
   "buildpacks": [
     {
